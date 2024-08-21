@@ -1,2 +1,1 @@
-# iSpanProject
-# iSpan_project
+此為複製存放的專案，操作時並非在此git存放庫作業
